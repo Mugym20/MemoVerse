@@ -1,5 +1,9 @@
 package com.example.uas_akb_if2_10120049;
 
+// Nama: Mochammad Gymnastiar
+// Nim: 10120049
+// Kelas: IF2
+
 import android.content.Context;
 
 import androidx.test.platform.app.InstrumentationRegistry;
